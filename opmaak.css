@@ -21,44 +21,6 @@ body {
     display: inline;
   }
 
-  li {
-    float: left;
-  }
-  
-  a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-  }
-
-  ul {
-    background-color: #dddddd;
-  }
-
-  .active {
-    background-color: #04AA6D;
-  }
-
-  li {
-    border-right: 1px solid #bbb;
-  }
-  
-  li:last-child {
-    border-right: none;
-  }
-
-  ul {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-
-  ul {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-  }
-
   ul {
     list-style-type: none;
     margin: 0;
