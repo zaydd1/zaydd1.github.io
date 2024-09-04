@@ -11,3 +11,8 @@ body {
     font-family: verdana;
     font-size: 20px;
   } /*dit is voor de achtergrond kleur*/
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
