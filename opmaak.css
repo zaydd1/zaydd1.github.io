@@ -35,3 +35,11 @@ body {
   li:last-child {
     border-right: none;
   } /*Dit is om tussen de blocken in het menu, een grens te laten zien*/
+
+  ul {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  } /*Dit is om het meer sticky te maken, dus als je naar beneden srollt komt het menu zelf in de goede plaats
+  terecht op je scherm. */
+  
