@@ -11,9 +11,3 @@ body {
     font-family: verdana;
     font-size: 20px;
   } /*dit is voor de achtergrond kleur*/
- <ul>
-  <li><a href="default.asp">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
-</ul>
