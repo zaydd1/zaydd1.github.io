@@ -23,7 +23,11 @@ body {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
+  
   li a:hover {
     background-color: #111;
+  }  /*Dit is voor het hele menu dat op me site staat.*/
+
+  .active {
+    background-color: #04AA6D;
   }
