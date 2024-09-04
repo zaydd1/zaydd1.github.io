@@ -34,4 +34,4 @@ body {
   
   li:last-child {
     border-right: none;
-  }
+  } /*Dit is om tussen de blocken in het menu, een grens te laten zien*/
