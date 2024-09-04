@@ -28,4 +28,10 @@ body {
     background-color: #0df10d;
   }  /*Dit is voor het hele menu dat op me site staat.*/
 
+  li {
+    border-right: 1px solid #0a0909;
+  }
   
+  li:last-child {
+    border-right: none;
+  }
