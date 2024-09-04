@@ -11,3 +11,22 @@ body {
     font-family: verdana;
     font-size: 20px;
   } /*dit is voor de achtergrond kleur*/
+  l {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+  }
+  
+  li a {
+    display: block;
+  }l {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+  }
+  
+  li a {
+    display: block;
+  }
