@@ -1,21 +1,8 @@
 body {
     background-color: rgb(86, 182, 214);
-  }
+  }/*dit is voor de achtergrond kleur*/
   
-  h1 {
-    color: rgb(223, 31, 31);
-    text-align: center;
-  }
   
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  } /*dit is voor de achtergrond kleur*/
-  
-  li {
-    display: inline;
-  }
-
   ul {
     list-style-type: none;
     margin: 0;
