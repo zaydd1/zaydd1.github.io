@@ -44,6 +44,6 @@ body {
   terecht op je scherm. */
   
   image { 
-    text-shadow: 10px 10px;
+    box-shadow: 10px 10px;
   }
   
