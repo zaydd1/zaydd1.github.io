@@ -114,3 +114,8 @@ body {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+  
+  #body2 {
+    background-color: rgb(224, 75, 12);
+  }/*dit is voor de achtergrond kleur*/
+  
