@@ -48,13 +48,6 @@ body {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
   }
-  
- li a:link {
-    color: green;   
-    background-color: #555
-    text-decoration: none;
-  }
-  /*dit is om de kleur van de link te veranderen*/
 
   .navbar {
     overflow: hidden;
@@ -122,15 +115,6 @@ body {
   die ik body2 (overmij) heb genoemd en nu kan ik via hier 
   de achtergrond kleur veranderen.*/
 
-  #img2 {
-    position: static 
-    width: 200px
-    padding: 10px
-
-  }
 h1 {
   text-align: center; /*dit is om de tekst naar het midden te zetten*/
-}
-#img2 {
-  margin: auto; 
 }
