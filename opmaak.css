@@ -129,8 +129,8 @@ body {
 
   }
 h1 {
-  text-align: center;
+  text-align: center; /*dit is om de tekst naar het midden te zetten*/
 }
-img {
-  margin: auto;
+#img2 {
+  margin: auto; 
 }
