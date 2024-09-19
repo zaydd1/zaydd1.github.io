@@ -13,13 +13,9 @@ body {
     color: rgb(57, 209, 41);
     text-align: center;
     padding: 16px 16px;
-    text-decoration: none;  /* waar staat de rest in de navigation bar*/
+    text-decoration: none;  /*Deze code is voor de tekst die je in de menu ziet (exclusief de Dropdown)*/
   }
   
-  .dropdown {
-    float: left;
-    overflow: hidden; /* waar staat dropdown in de navigation bar*/
-  }
   
   .dropdown .dropbtn {
     font-size: 14px;  
