@@ -10,7 +10,7 @@ body {
   .navbar a {
     float: left;
     font-size: 16px;
-    color: rgb(57, 209, 41);
+    color: rgb(240, 117, 16);
     text-align: center;
     padding: 16px 16px;
     text-decoration: none;  /*Deze code is voor de tekst die je in de menu ziet (exclusief de Dropdown)*/
@@ -26,6 +26,7 @@ body {
     outline: none;
     border: none
     color: rgb(234, 42, 244); 
+    background-color : inherit;
     font-family: inherit;
     padding: 16px 16px;
     margin: 0;
