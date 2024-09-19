@@ -24,7 +24,7 @@ body {
   .dropdown .dropbtn {
     font-size: 14px;  
     color: rgb(17, 31, 185); 
-    background-color: inherit; /*zorgt voor dezelfde achtergrondkleur als de rest van de navbar*/
+   
     font-family: inherit; /*zorgt voor dezelfde letterype als de rest van de nav bar*/
     padding: 16px 16px;
     
