@@ -16,6 +16,10 @@ body {
     text-decoration: none;  /*Deze code is voor de tekst die je in de menu ziet (exclusief de Dropdown)*/
   }
   
+  .dropdown {
+    float: left;
+    overflow: hidden; /* waar staat dropdown in de navigation bar*/
+  }
   
   .dropdown .dropbtn {
     font-size: 14px;  
