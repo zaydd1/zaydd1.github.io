@@ -10,14 +10,9 @@ body {
     text-decoration: none;
   }
   
-  
-  li a:hover {
-    background-color: #0df10d;
-  }  /*Dit is voor het hele menu dat op me site staat.*/
-
   .navbar {
     overflow: hidden;
-    background-color: black; /*achtergrond van navigation bar*/
+    background-color: rgb(15, 247, 131); /*achtergrond van navigation bar*/
   }
   
   .navbar a {
