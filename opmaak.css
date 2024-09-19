@@ -28,6 +28,7 @@ body {
     color: rgb(234, 42, 244); 
     font-family: inherit;
     padding: 16px 16px;
+    margin: 0;
   } /*Deze code is er voor de opmaak van de Dropdown die je ziet in het menu. (exclusief de Dropdown content)*/
   
   .navbar a:hover, .dropdown:hover .dropbtn {
