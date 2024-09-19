@@ -8,7 +8,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #e60808;
+    background-color: #0d0909;
   }
   
   li {
@@ -86,7 +86,7 @@ body {
   .dropdown:hover .dropdown-content {
     display: block;
   }
-  
+
   li {
     border-right: 1px solid #0a0909;
   }
