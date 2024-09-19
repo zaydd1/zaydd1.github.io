@@ -23,13 +23,11 @@ body {
   
   .dropdown .dropbtn {
     font-size: 14px;  
-    border: none;
-    outline: none;
-    color: rgb(198, 17, 17);
+    color: rgb(198, 17, 17); 
     background-color: inherit; /*zorgt voor dezelfde achtergrondkleur als de rest van de navbar*/
     font-family: inherit; /*zorgt voor dezelfde letterype als de rest van de nav bar*/
     padding: 16px 16px;
-    margin: 0; /*opmaak van dropdown*/
+    
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
