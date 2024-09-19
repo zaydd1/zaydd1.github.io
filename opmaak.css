@@ -2,12 +2,6 @@ body {
     background-color: rgb(86, 182, 214);
   }/*dit is voor de achtergrond kleur*/
   
-  
-  
-  li {
-    float: left;
-  }
-  
   li a {
     display: block;
     color: rgb(9, 9, 9);
