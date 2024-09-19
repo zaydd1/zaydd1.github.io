@@ -18,14 +18,14 @@ body {
   
   .dropdown {
     float: left;
-    overflow: hidden; /* waar staat dropdown in de navigation bar*/
+    overflow: hidden; /*Deze code zorgt ervoor dat de lijst tevoorschijn komt onder de Dropdown en niet ergens anders*/
   }
   
   .dropdown .dropbtn {
     font-size: 14px;  
     border: none;
     outline: none;
-    color: white;
+    color: rgb(198, 17, 17);
     background-color: inherit; /*zorgt voor dezelfde achtergrondkleur als de rest van de navbar*/
     font-family: inherit; /*zorgt voor dezelfde letterype als de rest van de nav bar*/
     padding: 16px 16px;
