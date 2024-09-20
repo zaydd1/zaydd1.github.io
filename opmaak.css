@@ -49,11 +49,12 @@ body {
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    text-align: left; /* meer opmaak van het dropdown menu*/
+    text-align: left; /* Deze code is voor de woorden die je in de lijst ziet als je op de dropdown bent*/
   }
   
   .dropdown-content a:hover {
-    background-color: #5c5b5b; /*kleur achtergrond dropdown menu*/
+    background-color: #5c5b5b; /*Deze code is voor de kleur die je ziet in
+     de lijst van de dropdown als je erover heen gaat*/
   }
   
   .dropdown:hover .dropdown-content {
