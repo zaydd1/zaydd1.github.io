@@ -36,7 +36,7 @@ body {
     background-color: #e91212; /*Deze code zorgt ervoor dat als je over het menu of de dropdown gaat het een kleurtje krijgt*/
   }
   
-  .dropdown-content { /* hoe het menu van de dropdown eruit ziet*/
+  .dropdown-content { 
     display: none;
     position: absolute;
     background-color: rgb(240, 152, 20); 
