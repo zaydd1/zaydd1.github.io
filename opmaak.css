@@ -62,7 +62,7 @@ body {
   }
 
   li {
-    border-right: 1px solid #0a0909;
+    border-right: 0px solid #ea1717;
   }
   
   li:last-child {
