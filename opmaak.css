@@ -33,7 +33,7 @@ body {
   } /*Deze code is er voor de opmaak van de Dropdown die je ziet in het menu. (exclusief de Dropdown content)*/
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #e91212; /*welke kleur dorpdown wordt als je met cursor erover heen gaat*/
+    background-color: #e91212; /*Deze code zorgt ervoor dat als je over het menu of de dropdown gaat het een kleurtje krijgt*/
   }
   
   .dropdown-content { /* hoe het menu van de dropdown eruit ziet*/
