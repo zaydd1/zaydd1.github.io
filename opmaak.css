@@ -61,9 +61,7 @@ body {
     display: block;
   } /*Deze code zorgt ervoor dat je een lijst krijgt te zien als je op de dropdown bent*/
 
-  li {
-    border-right: 1px solid #ea1717;
-  }
+  
   
   li:last-child {
     border-right: none;
