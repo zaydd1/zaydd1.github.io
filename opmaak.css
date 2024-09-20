@@ -39,9 +39,9 @@ body {
   .dropdown-content { 
     display: none;
     position: absolute;
-    background-color: rgb(240, 152, 20); 
+    background-color: rgb(135, 17, 87); 
     min-width: 160px;
-   
+    box-shadow: 0px 8px 16px 0px rgba(213, 210, 8, 0.2); 
   }
   
   .dropdown-content a {
