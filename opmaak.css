@@ -39,7 +39,7 @@ body {
   .dropdown-content { /* hoe het menu van de dropdown eruit ziet*/
     display: none;
     position: absolute;
-    background-color: black; 
+    background-color: rgb(114, 201, 6); 
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(26, 65, 219, 0.2); /*schaduw*/
   }
