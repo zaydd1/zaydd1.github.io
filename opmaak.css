@@ -57,9 +57,7 @@ body {
      de lijst van de dropdown als je erover heen gaat*/
   }
   
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
+  
 
   li {
     border-right: 1px solid #ea1717;
