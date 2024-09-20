@@ -31,8 +31,8 @@ body {
   
   .dropdown .dropbtn {
     font-size: 16px;  
-    outline: none;
-    border: none
+    border: none;
+    outline: none
     color: white; 
     background-color : inherit;
     font-family: inherit;
