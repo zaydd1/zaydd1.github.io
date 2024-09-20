@@ -61,10 +61,6 @@ body {
     display: block;
   } /*Deze code zorgt ervoor dat je een lijst krijgt te zien als je op de dropdown bent*/
 
-  
-  
-  
-
   ul {
     position: -webkit-sticky; 
     position: sticky;
@@ -72,13 +68,12 @@ body {
   } /*Dit is om het meer sticky te maken, dus als je naar beneden srollt komt het menu zelf in de goede plaats
   terecht op je scherm. */
 
-  
   #body2 {
     background-color: rgb(224, 75, 12);
   }/*dit is voor de achtergrond kleur*/
   /*Deze code is er om een connectie met de pagina 
-  die ik body2 (overmij) heb genoemd en nu kan ik via hier 
-  de achtergrond kleur veranderen.*/
+  die ik body2 (overmij) heb genoemd en nu kan ik via hier alleen
+  deze achtergrond kleur veranderen.*/
 
 h1 {
   text-align: center; /*dit is om de tekst naar het midden te zetten*/
