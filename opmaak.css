@@ -32,7 +32,7 @@ body {
     margin: 0;
   } /*Deze code is er voor de opmaak van de Dropdown die je ziet in het menu. (exclusief de Dropdown content)*/
   
-  .navbar a:hover, .dropdown:hover .dropbtn {
+  .menu a:hover, .Dropdown:hover .dropbtn {
     background-color: #e91212; /*Deze code zorgt ervoor dat als je over het menu of de dropdown
      gaat het een kleurtje krijgt*/
   }
@@ -58,7 +58,7 @@ body {
      de lijst van de dropdown als je erover heen gaat*/
   }
   
-  .dropdown:hover .dropdown-content {
+  .Dropdown:hover .dropdown-content {
     display: block;
   } /*Deze code zorgt ervoor dat je een lijst krijgt te zien als je op de dropdown bent*/
 
