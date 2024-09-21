@@ -47,10 +47,14 @@
       <h4>Geluidsfragmenten</h4>
       <p>
        Geluid is ook informatie die opgebouwd is uit trillingen in de lucht. Maar de vraag is hoe je nou eenmaal het geluid digitaal kan opslaan als het uit je speaker komt bijvoorbeeld. 
-       In het kort hoe je de luchttrillingen kan omzetten naar het binairstelsel. Het proces begint allemaal bij een microfoon bijvoorbeeld die luchttrillingen binnenkrijgt. De microfoon zet de luchttrillingen dan om in een eleketrisch signaal.
+       In het kort hoe je de luchttrillingen kan omzetten naar binaire getallen. Het proces begint allemaal bij een microfoon bijvoorbeeld die luchttrillingen binnenkrijgt. De microfoon zet de luchttrillingen dan om in een eleketrisch signaal. Vervolgens zet een computer dit signaal om naar digitale waarden. Dit gehele proces dat je net hebt gelezen word samplen genoemd.
+       Je kan dit samplen in een grafiek laten zien waarbij er op specifieke tijdstippen zoals 1 keer per seconde, de geluidssterkte gemeten worden.
        
-       
-
+       Bij zo een grafiek zie de tijd op de horizontale as en de geluidssterkte op de verticale as. Hoe wordt het nou binair opgeslagen? 
+       Dat zit zo, elk punt op de grafiek is een sample en deze bestaat uit de tijd en waarde. Je kan het binair opslaan door de waarde van de sample te nemen en het binair op te schrijven. 
+       Zo krijg je bij een waarde van 2, 0010 en bij 5 bijvoorbeeld 0101. Nu het binair is opgslagen en je het afspeelt, kunnen de waarden omgezet worden naar een elektrisch signaal.
+       Het resultaat kan je verbeteren door een hogere sample rate te hebben. Een voorbeeld, meeste muziek wordt opgenomen in een sample rate van 44.100 Hz (44,1 kHz). Dit houdt in dat er dan 44100 keer per seconde wordt gemeten.
+       Bij spraakopnames is dit 22.050 Hz (22,05 kHz). Hierbij wordt er 22.050 keer per seconde gemeten wat leidt tot een minder nauwkeurig resultaat van het geluid.
 
       </p>
 
