@@ -108,4 +108,10 @@ h1 {
   margin-left: 0%; /* Wat ruimte aan de rechterkant */
 }
 
+#hetcmyk-model {
+  text-align: left; /* Tekst naar links uitlijnen */
+  float: left; /* De paragraaf naar links plaatsen */
+  width: 45%; /* Breedte van de paragraaf */
+  margin-right: 0%; /* Wat ruimte aan de linkerkant */
+}
 
