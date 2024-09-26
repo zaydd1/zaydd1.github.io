@@ -101,6 +101,11 @@ h1 {
   margin-right: 0%; 
 } /*deze code is er voor de plek van de tekst (Het RGB-model1)*/
 
+#hetrgb-model1 {
+  border-style: solid;
+  border-color: #e91212;
+}
+
 #hetrgb-model2 {
   text-align: left; 
   float: right; 
