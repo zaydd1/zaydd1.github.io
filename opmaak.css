@@ -119,3 +119,18 @@ h1 {
   clear: both;
 } /*deze code zorgt ervoor dat me titel (h4) goed boven mij tekst staat */
 
+#compressieafbeeldingenenvideo {
+  text-align: left; 
+  float: left; 
+  width: 45%; 
+  margin-right: 0%; 
+} /*deze code is er voor de plek van de tekst (Compressie afbeeldingen en video))*/
+
+#compressiebijgeluidsfragmenten {
+  text-align: left; 
+  float: right; 
+  width: 45%; 
+  margin-left: 0%; 
+} /*deze code is er voor de plek van de tekst (Compressie bij geluidrfragmenten)*/
+
+
