@@ -87,7 +87,7 @@ h1 {
   margin-right: 0%; /* Wat ruimte aan de linkerkant */
 }
 
-#povermijinformatica {
+ .overmijkeuze-container {
   text-align: left; /* Tekst naar links uitlijnen */
   float: right; /* De paragraaf naar rechts plaatsen */
   width: 45%; /* Breedte van de paragraaf */
@@ -95,9 +95,7 @@ h1 {
   margin-top: 0px;
 }
 
-#h4overmijkeuze {
-  margin-bottom: 10px;
-}
+
 
 
 
