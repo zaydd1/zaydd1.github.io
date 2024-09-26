@@ -81,40 +81,40 @@ h1 {
 }
 
 #povermijleven {
-  text-align: left; /* Tekst naar links uitlijnen */
-  float: left; /* De paragraaf naar links plaatsen */
-  width: 45%; /* Breedte van de paragraaf */
-  margin-right: 0%; /* Wat ruimte aan de linkerkant */
-}
+  text-align: left; 
+  float: left; 
+  width: 45%; 
+  margin-right: 0%; 
+} /*deze code is er voor de plek van de tekst (overmij leven)*/
 
  #povermijinformatica {
-  text-align: left; /* Tekst naar links uitlijnen */
-  float: right; /* De paragraaf naar rechts plaatsen */
-  width: 45%; /* Breedte van de paragraaf */
-  margin-left: 0%; /* Wat ruimte aan de rechterkant */
-}
+  text-align: left; 
+  float: right; 
+  width: 45%; 
+  margin-left: 0%; 
+} /*deze code is er voor de plek van de tekst (overmij informatica)*/                
 
 #hetrgb-model1 {
-  text-align: left; /* Tekst naar links uitlijnen */
-  float: left; /* De paragraaf naar links plaatsen */
-  width: 45%; /* Breedte van de paragraaf */
-  margin-right: 0%; /* Wat ruimte aan de linkerkant */
-}
+  text-align: left; 
+  float: left; 
+  width: 45%; 
+  margin-right: 0%; 
+} /*deze code is er voor de plek van de tekst (Het RGB-model1)*/
 
 #hetrgb-model2 {
-  text-align: left; /* Tekst naar links uitlijnen */
-  float: right; /* De paragraaf naar rechts plaatsen */
-  width: 45%; /* Breedte van de paragraaf */
-  margin-left: 0%; /* Wat ruimte aan de rechterkant */
-}
+  text-align: left; 
+  float: right; 
+  width: 45%; 
+  margin-left: 0%; 
+} /*deze code is er voor de plek van de tekst (Het RGB-model2)*/
 
 #hetcmyk-model {
-  text-align: left; /* Tekst naar links uitlijnen */
-  float: none; /* De paragraaf naar links plaatsen */
-  width: 45%; /* Breedte van de paragraaf */
-  margin-right: 0%; /* Wat ruimte aan de linkerkant */
-}
+  text-align: left; 
+  float: none; 
+  width: 45%; 
+  margin-right: 0%; 
+} /*deze code is er voor de plek van de tekst (Het cmy(k)-model*/
 
 .clear {
   clear: both;
-}
+} /*deze code zorgt ervoor dat me titel (h4) goed boven mij tekst staat */
