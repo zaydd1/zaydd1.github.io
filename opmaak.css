@@ -80,7 +80,7 @@ h1 {
   text-align: center; /*dit is om de tekst naar het midden te zetten*/
 }
 
-#povermijleven {
+.overmijleven-container {
   text-align: left; /* Tekst naar links uitlijnen */
   float: left; /* De paragraaf naar links plaatsen */
   width: 45%; /* Breedte van de paragraaf */
