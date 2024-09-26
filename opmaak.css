@@ -81,7 +81,7 @@ h1 {
 }
 
 #povermijinformatica {
-  text-align: right; /* Tekst naar links uitlijnen */
+  text-align: left; /* Tekst naar links uitlijnen */
   float: right; /* De paragraaf naar rechts plaatsen */
   width: 45%; /* Breedte van de paragraaf */
   margin-right: 20%; /* Wat ruimte aan de rechterkant */
