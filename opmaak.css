@@ -157,20 +157,20 @@ h1 {
   position: relative;
   left: 135px;
   top:  -34px;
-}
+} /*deze code zorgt ervoor dat de h4 (h4compressiebijgeluidsfragmenten) gelijk staat met de h4 (h4compressieafbeeldingenenvideo)*/
 
 #compressiebijgeluidsfragmenten {
   position: relative;
   top: -40px;
-}
+} /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (compressie bij geluidsfragmenten).*/
 
 #h4geluidsfragmenten {
   position: relative;
   left: 135px;
   top: -34px;
-}
+} /*deze code zorgt ervoor dat de h4 (h4geluidsfragmenten) gelijk staat met de h4 (h4bitmap-envectorafbeeldingen)*/
 
 #geluidsfragmenten {
   position: relative;
   top: -40px;
-}
+} /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (geluidsfragmenten).*/
