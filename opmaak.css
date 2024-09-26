@@ -113,6 +113,14 @@ h1 {
   margin-left: 0%; 
 } /*deze code is er voor de plek van de tekst (Het RGB-model2)*/
 
+#hetrgb-model2 {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
 #hetcmyk-model {
   text-align: left; 
   float: none; 
