@@ -115,10 +115,10 @@ h1 {
 
 #hetrgb-model2 {
   background-color: lightgrey;
-  width: 300px;
+  width: 45px;
   border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  padding: 0px;
+  margin: 0px;
 }
 
 #hetcmyk-model {
