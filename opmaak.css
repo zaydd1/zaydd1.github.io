@@ -156,8 +156,6 @@ h1 {
 #image1 {
 width: 100px;
 height: 100px;
+clear: both;
 }
 
-.clear2 {
- clear: both;
-}
