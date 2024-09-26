@@ -153,14 +153,6 @@ h1 {
   margin-left: 0%; 
 } /*deze code is er voor de plek van de tekst (Geluidsfragmenten)*/
 
-#image1 {
-width: 200px;
-height: 200px;
-clear: both;
-display: block;
-margin: 0 auto;
-} /*deze code is er voor de plek/grootte van de gecomprimeerde foto (compressie)*/
-
 #h4compressiebijgeluidsfragmenten {
   position: relative;
   left: 20px;
