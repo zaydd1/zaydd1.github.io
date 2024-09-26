@@ -161,4 +161,7 @@ display: block;
 margin: 0 auto;
 } /*deze code is er voor de plek/grootte van de gecomprimeerde foto (compressie)*/
 
-
+#h4compressiebijgeluidsfragmenten {
+  position: relative;
+  left: 20px;
+}
