@@ -155,10 +155,11 @@ h1 {
 
 #h4compressiebijgeluidsfragmenten {
   position: relative;
-  left: 150px;
+  left: 132px;
+  top:  -34px;
 }
 
 #compressiebijgeluidsfragmenten {
   position: relative;
-  top: -50px;
+  top: -40px;
 }
