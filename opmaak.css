@@ -80,7 +80,9 @@ h1 {
   text-align: center; /*dit is om de tekst naar het midden te zetten*/
 }
 
-
+#povermijinformatica {
+  text-align: right;
+}
 
 
 
