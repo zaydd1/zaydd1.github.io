@@ -92,6 +92,7 @@ h1 {
   float: right; /* De paragraaf naar rechts plaatsen */
   width: 45%; /* Breedte van de paragraaf */
   margin-left: 0%; /* Wat ruimte aan de rechterkant */
+  margin-top: 0px;
 }
 
 #h4overmijkeuze {
