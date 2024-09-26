@@ -80,19 +80,18 @@ h1 {
   text-align: center; /*dit is om de tekst naar het midden te zetten*/
 }
 
-.overmijleven-container {
+#povermijleven {
   text-align: left; /* Tekst naar links uitlijnen */
   float: left; /* De paragraaf naar links plaatsen */
   width: 45%; /* Breedte van de paragraaf */
   margin-right: 0%; /* Wat ruimte aan de linkerkant */
 }
 
- .overmijkeuze-container {
+ #povermijinformatica {
   text-align: left; /* Tekst naar links uitlijnen */
   float: right; /* De paragraaf naar rechts plaatsen */
   width: 45%; /* Breedte van de paragraaf */
   margin-left: 0%; /* Wat ruimte aan de rechterkant */
-  margin-top: 0px;
 }
 
 
