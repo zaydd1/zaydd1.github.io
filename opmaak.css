@@ -115,7 +115,7 @@ h1 {
   margin-right: 0%; 
 } /*deze code is er voor de plek van de tekst (Het cmy(k)-model*/
 
-.clear2 {
+.clear {
   clear: both;
 } /*deze code zorgt ervoor dat me titel (h4) goed boven mij tekst staat */
 
