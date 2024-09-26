@@ -152,3 +152,8 @@ h1 {
   width: 45%; 
   margin-left: 0%; 
 } /*deze code is er voor de plek van de tekst (Geluidsfragmenten)*/
+
+#image1 {
+width: 100;
+height: 100;
+}
