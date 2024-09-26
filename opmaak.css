@@ -124,7 +124,7 @@ h1 {
   float: left; 
   width: 45%; 
   margin-right: 0%; 
-} /*deze code is er voor de plek van de tekst (Compressie afbeeldingen en video))*/
+} /*deze code is er voor de plek van de tekst (Compressie afbeeldingen en video)*/
 
 #compressiebijgeluidsfragmenten {
   text-align: left; 
@@ -133,4 +133,16 @@ h1 {
   margin-left: 0%; 
 } /*deze code is er voor de plek van de tekst (Compressie bij geluidrfragmenten)*/
 
+#bitmap-envectorafbeeldingen {
+  text-align: left; 
+  float: left; 
+  width: 45%; 
+  margin-right: 0%; 
+} /*deze code is er voor de plek van de tekst (Bitmap- en vectorafbeeldingen)*/
 
+#geluidsfragmenten {
+  text-align: left; 
+  float: right; 
+  width: 45%; 
+  margin-left: 0%; 
+} /*deze code is er voor de plek van de tekst (Geluidsfragmenten)*/
