@@ -248,7 +248,8 @@ left: 600px;
 #figure4 {
   text-align: left; 
 position: relative;
-top: -70px;
+top: -546px;
+left: 900px;
 } /*deze code zorgt ervoor dat ik de plaats van CMYK-model.gif kan kiezen*/
 
 #figcaption4 {
@@ -257,7 +258,8 @@ top: -70px;
   margin-top: 5px; 
   display: inline-block; 
   position: relative;
-  top: 10px;
+  top: 25px;
+  left: -135px;
 } /*deze code zorgt ervoor dat ik de tekst onder CMYK-model.gif goed kan positioneren*/
 
 #figure5 {
