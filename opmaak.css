@@ -231,7 +231,8 @@ left: 334px;
 #figure3 {
   text-align: left; 
 position: relative;
-top: -70px;
+top: -363px;
+left: 600px;
 } /*deze code zorgt ervoor dat ik de plaats van pixels.html kan kiezen*/
 
 #figcaption3 {
@@ -240,7 +241,8 @@ top: -70px;
   margin-top: 5px; 
   display: inline-block; 
   position: relative;
-  top: 10px;
+  top: 24px;
+  left: -135px;
 } /*deze code zorgt ervoor dat ik de tekst onder pixels.html goed kan positioneren*/
 
 #figure4 {
