@@ -182,5 +182,11 @@ footer {
   bottom: 0;
 } /* dit is de code waarmee ik de footer kan veranderen met grootte of kleur etc.*/
 
+#resolutie {
+  text-align: left; 
+  float: right; 
+  width: 45%; 
+  margin-left: 0%; 
+} /*deze code is er voor de plek van de tekst (resolutie)*/
 
 
