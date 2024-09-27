@@ -378,4 +378,8 @@ top: -330px;
 
 #h4overmijkeuze {
   left: 188px;
-}
+}   /*deze code zorgt ervoor dat de titel over mij keuze, gelijk staat met over mij leven h4*/
+
+#footer1 {
+  top: 580px;
+} /*deze code zorgt ervoor dat me footer op de goede plaats komt (overmij.html)*/
