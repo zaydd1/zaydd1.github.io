@@ -213,7 +213,7 @@ figcaption {
   text-align: left; 
 position: relative;
 top: -70px;
-} /*deze code zorgt ervoor dat ik de plaats van HetRGB-model.gif kan kiezen*/
+} /*deze code zorgt ervoor dat ik de plaats van CDD.html kan kiezen*/
 
 #figcaption2 {
   border: 2px solid black; 
@@ -222,4 +222,4 @@ top: -70px;
   display: inline-block; 
   position: relative;
   top: 10px;
-} /*deze code zorgt ervoor dat ik de tekst onder HetRGB-model goed kan positionere*/
+} /*deze code zorgt ervoor dat ik de tekst onder CDD.html goed kan positionere*/
