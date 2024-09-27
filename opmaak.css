@@ -283,7 +283,7 @@ left: 1200px;
 #figure6 {
   text-align: left; 
 position: relative;
-
+left: 200px;
 } /*deze code zorgt ervoor dat ik de plaats van comprimeerdefoto.html kan kiezen*/
 
 #figcaption6 {
@@ -292,8 +292,9 @@ position: relative;
   margin-top: 5px; 
   display: inline-block; 
   position: relative;
-
+  left: -440px;
 } /*deze code zorgt ervoor dat ik de tekst onder comprimeerdefoto.html goed kan positioneren*/
+
 
 
 
