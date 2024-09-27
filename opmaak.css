@@ -343,3 +343,19 @@ top: -330px;
   position: relative;
   left: -440px;
 } /*deze code zorgt ervoor dat ik de tekst onder hoeveelheidbytes.html goed kan positioneren*/
+
+#figure11 {
+  text-align: left; 
+position: relative;
+left: 200px;
+top: -30px;
+} /*deze code zorgt ervoor dat ik de plaats van bitmapvsvector.html kan kiezen*/
+
+#figcaption11 {
+  border: 2px solid black; 
+  padding: 10px; 
+  margin-top: 5px; 
+  display: inline-block; 
+  position: relative;
+  left: -440px;
+} /*deze code zorgt ervoor dat ik de tekst onder bitmapvsvector.html goed kan positioneren*/
