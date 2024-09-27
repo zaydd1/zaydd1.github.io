@@ -295,14 +295,14 @@ left: 200px;
   left: -440px;
 } /*deze code zorgt ervoor dat ik de tekst onder comprimeerdefoto.html goed kan positioneren*/
 
-#figure8 {
+#figure9 {
   text-align: left; 
 position: relative;
 left: 700px;
 top: -512px;
 } /*deze code zorgt ervoor dat ik de plaats van ascii.html kan kiezen*/
 
-#figcaption8 {
+#figcaption9 {
   border: 2px solid black; 
   padding: 10px; 
   margin-top: 5px; 
@@ -311,14 +311,14 @@ top: -512px;
   left: -280px;
 } /*deze code zorgt ervoor dat ik de tekst onder ascii.html goed kan positioneren*/
 
-#figure9 {
+#figure10 {
   text-align: left; 
 position: relative;
 left: 1200px;
 top: -944px;
 } /*deze code zorgt ervoor dat ik de plaats van byte.html kan kiezen*/
 
-#figcaption9 {
+#figcaption10 {
   border: 2px solid black; 
   padding: 10px; 
   margin-top: 5px; 
