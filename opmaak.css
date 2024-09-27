@@ -328,3 +328,18 @@ top: -944px;
 } /*deze code zorgt ervoor dat ik de tekst onder byte.html goed kan positioneren*/
 
 
+#figure6 {
+  text-align: left; 
+position: relative;
+left: 12px;
+top: -330px;
+} /*deze code zorgt ervoor dat ik de plaats van hoeveelheidbytes.html kan kiezen*/
+
+#figcaption6 {
+  border: 2px solid black; 
+  padding: 10px; 
+  margin-top: 5px; 
+  display: inline-block; 
+  position: relative;
+  left: -440px;
+} /*deze code zorgt ervoor dat ik de tekst onder hoeveelheidbytes.html goed kan positioneren*/
