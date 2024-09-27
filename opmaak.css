@@ -190,5 +190,6 @@ footer {
 } /*deze code is er voor de plek van de tekst (resolutie)*/
 
 #h4kleurmodellenres {
-  left: 100px;
+  position: relative;
+  left: 733px;
 }
