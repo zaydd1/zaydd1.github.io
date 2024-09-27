@@ -187,10 +187,6 @@ h1 {
 }  /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (povermijinformatica).*/
 
 .footer {
-  position: bottom;
-  left: 0;
-  bottom: 0;
-  width: 100%;
   background-color: #5c5b5b;
   padding: 10px;
   color: aliceblue;
