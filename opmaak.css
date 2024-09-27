@@ -207,7 +207,7 @@ figcaption {
   display: inline-block; 
   position: relative;
   top: 10px;
-} /*deze code zorgt ervoor dat ik de tekst onder HetRGB-model goed kan positioneren*/
+} /*deze code zorgt ervoor dat ik de tekst onder HetRGB-model.gif goed kan positioneren*/
 
 #figure2 {
   text-align: left; 
@@ -238,3 +238,18 @@ top: -70px;
   position: relative;
   top: 10px;
 } /*deze code zorgt ervoor dat ik de tekst onder pixels.html goed kan positioneren*/
+
+#figure4 {
+  text-align: left; 
+position: relative;
+top: -70px;
+} /*deze code zorgt ervoor dat ik de plaats van cmyk-model.gif kan kiezen*/
+
+#figcaption4 {
+  border: 2px solid black; 
+  padding: 10px; 
+  margin-top: 5px; 
+  display: inline-block; 
+  position: relative;
+  top: 10px;
+} /*deze code zorgt ervoor dat ik de tekst onder cmyk-model.gif goed kan positioneren*/
