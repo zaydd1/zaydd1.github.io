@@ -265,7 +265,8 @@ left: 900px;
 #figure5 {
   text-align: left; 
 position: relative;
-top: -70px;
+top: -728px;
+left: 1200px;
 } /*deze code zorgt ervoor dat ik de plaats van resolutie.html kan kiezen*/
 
 #figcaption5 {
@@ -274,7 +275,8 @@ top: -70px;
   margin-top: 5px; 
   display: inline-block; 
   position: relative;
-  top: 10px;
+  top: 25px;
+  right:165px;
 } /*deze code zorgt ervoor dat ik de tekst onder resolutie.html goed kan positioneren*/
 
 
