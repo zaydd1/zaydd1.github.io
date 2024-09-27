@@ -383,3 +383,17 @@ top: -330px;
 #footer1 {
   top: 580px;
 } /*deze code zorgt ervoor dat me footer op de goede plaats komt (overmij.html)*/
+
+#footer2 {
+  top: -620px;
+} /*deze code zorgt ervoor dat me footer op de goede plaats komt (kleurmodellen.html)*/
+
+#footer3 {
+  top: -300px;
+}  /*deze code zorgt ervoor dat me footer op de goede plaats komt (compressie.html)*/
+
+#footer4 {
+  top: -850px;
+} /*deze code zorgt ervoor dat me footer op de goede plaats komt (binairstelsel.html)*/
+
+
