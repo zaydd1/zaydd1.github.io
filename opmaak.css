@@ -185,3 +185,12 @@ h1 {
   position: relative;
   top: -40px;
 }  /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (povermijinformatica).*/
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
