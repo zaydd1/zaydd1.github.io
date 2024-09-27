@@ -187,6 +187,7 @@ h1 {
 }  /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (povermijinformatica).*/
 
 .footer {
+  position: bottom;
   left: 0;
   bottom: 0;
   width: 100%;
