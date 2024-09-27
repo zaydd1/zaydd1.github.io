@@ -295,27 +295,10 @@ left: 200px;
   left: -440px;
 } /*deze code zorgt ervoor dat ik de tekst onder comprimeerdefoto.html goed kan positioneren*/
 
-#figure6 {
-  text-align: left; 
-position: relative;
-left: 15px;
-top: -332px;
-} /*deze code zorgt ervoor dat ik de plaats van hoeveelheidbytes.html kan kiezen*/
-
-#figcaption6 {
-  border: 2px solid black; 
-  padding: 10px; 
-  margin-top: 5px; 
-  display: inline-block; 
-  position: relative;
-  left: -440px;
-} /*deze code zorgt ervoor dat ik de tekst onder hoeveelheidbytes.html goed kan positioneren*/
-
-
 #figure8 {
   text-align: left; 
 position: relative;
-left: 800px;
+left: 700px;
 top: -512px;
 } /*deze code zorgt ervoor dat ik de plaats van ascii.html kan kiezen*/
 
@@ -328,5 +311,20 @@ top: -512px;
   left: -280px;
 } /*deze code zorgt ervoor dat ik de tekst onder ascii.html goed kan positioneren*/
 
+#figure9 {
+  text-align: left; 
+position: relative;
+left: 1200px;
+top: -944px;
+} /*deze code zorgt ervoor dat ik de plaats van byte.html kan kiezen*/
+
+#figcaption9 {
+  border: 2px solid black; 
+  padding: 10px; 
+  margin-top: 5px; 
+  display: inline-block; 
+  position: relative;
+  left: -380px;
+} /*deze code zorgt ervoor dat ik de tekst onder byte.html goed kan positioneren*/
 
 
