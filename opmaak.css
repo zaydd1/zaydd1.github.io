@@ -283,8 +283,7 @@ left: 1200px;
 #figure6 {
   text-align: left; 
 position: relative;
-top: -728px;
-left: 1200px;
+
 } /*deze code zorgt ervoor dat ik de plaats van resolutie.html kan kiezen*/
 
 #figcaption6 {
@@ -293,8 +292,7 @@ left: 1200px;
   margin-top: 5px; 
   display: inline-block; 
   position: relative;
-  top: 25px;
-  right: 165px;
+
 } /*deze code zorgt ervoor dat ik de tekst onder resolutie.html goed kan positioneren*/
 
 
