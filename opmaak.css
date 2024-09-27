@@ -189,4 +189,6 @@ footer {
   margin-left: 0%; 
 } /*deze code is er voor de plek van de tekst (resolutie)*/
 
-
+#h4kleurmodellenres {
+  left: 100px;
+}
