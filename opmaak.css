@@ -191,7 +191,8 @@ footer {
 
 #h4kleurmodellenres {
   position: relative;
-  left: 733px;  
+  left: 1037px;  
+  top: 15px; 
 } /*deze code zorgt voor de plek van de h4 (h4kleuremodellenres).*/
 
 figure {
