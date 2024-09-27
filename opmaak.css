@@ -187,18 +187,14 @@ h1 {
 }  /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (povermijinformatica).*/
 
 footer {
-  background-color: rgb(15, 247, 131); /* Zelfde kleur als je menu of een kleur naar keuze */
+  background-color: rgb(15, 247, 131); /* De kleur van de footer, pas aan naar wens */
   color: white;
   text-align: center;
-  padding: 10px 0;
-  position: relative;
+  padding: 10px 0; /* Wat extra ruimte binnen de footer */
+  width: 100%; /* Zorg dat de footer de volledige breedte van de pagina inneemt */
+  clear: both; /* Zorg ervoor dat de footer altijd onder andere inhoud blijft */
+  position: relative; /* Normale positionering, geen fixed of absolute */
   bottom: 0;
-  width: 100%;
-  font-size: 14px;
-}
-
-.footer-content p {
-  margin: 0;
 }
 
 
