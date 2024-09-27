@@ -375,3 +375,7 @@ top: -330px;
   position: relative;
   left: -460px;
 } /*deze code zorgt ervoor dat ik de tekst onder geluidscompressie.html goed kan positioneren*/
+
+#h4overmijkeuze {
+  left: 188px;
+}
