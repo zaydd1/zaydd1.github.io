@@ -197,7 +197,8 @@ footer {
 figure {
   text-align: left; 
 position: relative;
-top: -70px;
+top: -0px;
+left: 20px;
 } /*deze code zorgt ervoor dat ik de plaats van HetRGB-model.gif kan kiezen*/
 
 figcaption {
@@ -206,7 +207,8 @@ figcaption {
   margin-top: 5px; 
   display: inline-block; 
   position: relative;
-  top: 10px;
+  top: 26px;
+  right: 220px;
 } /*deze code zorgt ervoor dat ik de tekst onder HetRGB-model.gif goed kan positioneren*/
 
 #figure2 {
