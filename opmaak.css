@@ -186,5 +186,19 @@ h1 {
   top: -40px;
 }  /*deze code zorgt ervoor dat de tekst een stukje omhoog gaat (povermijinformatica).*/
 
+footer {
+  background-color: rgb(15, 247, 131); /* Zelfde kleur als je menu of een kleur naar keuze */
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+}
+
+.footer-content p {
+  margin: 0;
+}
 
 
